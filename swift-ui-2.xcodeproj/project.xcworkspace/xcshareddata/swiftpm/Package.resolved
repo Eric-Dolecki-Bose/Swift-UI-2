@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image.git",
+        "state": {
+          "branch": null,
+          "revision": "dc913391b6fc0c9de283ef111eb90d0e9abf4c36",
+          "version": "0.9.10"
+        }
+      },
+      {
+        "package": "WXKDarkSky",
+        "repositoryURL": "https://github.com/loopwxservices/WXKDarkSky.git",
+        "state": {
+          "branch": null,
+          "revision": "c5a24125d792fc569581eb7b08e2dd5bf4c5f5de",
+          "version": "4.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
